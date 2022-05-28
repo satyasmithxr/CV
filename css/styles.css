@@ -1,0 +1,19 @@
+body{
+    background-color:#EFEAD8;
+}
+h1{
+    color: #4c584e;
+}
+h2{
+    color: #6D8B74;
+}
+hr{
+    /* border-style: dotted none none;  this will also work for border */
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #6D8B74;
+    border-width: 4px;
+    width: 25%;
+    /* height: 2px; */
+   
+}
